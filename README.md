@@ -35,7 +35,7 @@ Day 3: Crawl → Find 52 places with badge → 49 already in DB → Report 3 new
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/naver-newbiz-scout.git
+git clone https://github.com/VoidLight00/naver-newbiz-scout.git
 cd naver-newbiz-scout
 
 # Install dependencies
